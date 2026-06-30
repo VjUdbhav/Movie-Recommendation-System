@@ -18,9 +18,9 @@ Place `movies.csv` inside the `dataset/` folder.
 Movie-Recommendation-System/
 ├── Movie_Recommendation_System.ipynb
 ├── README.md
-├── dataset/
-│   └── movies.csv
-└── output/
+└── dataset/
+    └── movies.csv
+
 ```
 
 ## Setup
